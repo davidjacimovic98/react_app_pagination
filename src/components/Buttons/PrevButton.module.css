@@ -1,0 +1,12 @@
+.prev-btn {
+  background-color: transparent;
+  border: none;
+  font-size: 16px;
+  margin-right: 10px;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+.prev-btn:hover {
+  cursor: pointer;
+}
